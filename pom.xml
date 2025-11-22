@@ -8,7 +8,7 @@
     <!-- Fixed groupId (no spaces, lowercase) -->
     <groupId>com.mohammad.projects</groupId>
     <artifactId>Sunaah</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>Sunaah</name>
