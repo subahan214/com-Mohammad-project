@@ -1,6 +1,0 @@
-projectKey=com.mohammad.projects:Sunaah
-serverUrl=http://3.236.7.125:9000
-serverVersion=25.11.0.114957
-dashboardUrl=http://3.236.7.125:9000/dashboard?id=com.mohammad.projects%3ASunaah
-ceTaskId=84f9f226-c9ee-4aaf-b8d7-031db654f0d3
-ceTaskUrl=http://3.236.7.125:9000/api/ce/task?id=84f9f226-c9ee-4aaf-b8d7-031db654f0d3

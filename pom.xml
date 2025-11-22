@@ -80,6 +80,12 @@
             </plugin>
         </plugins>
     </build>
+     <distributionManagement>
+    <repository>
+        <id>maven-release</id>
+        <url>http://98.80.201.217:8081/repository/maven-releases/</url>
+    </repository>
+    </distributionManagement>
 
     <profiles>
         <profile>
